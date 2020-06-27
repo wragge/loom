@@ -7,7 +7,7 @@
   // http://help.nla.gov.au/trove/building-with-trove/api-technical-guide#indexes
 
   var TROVE_KEY = 'agvc8ipol63aeodp';
-  var TROVE_API = 'http://api.trove.nla.gov.au/result';
+  var TROVE_API = 'http://api.trove.nla.gov.au/v2/result';
 
   // global object
   classPath.TroveService = {
